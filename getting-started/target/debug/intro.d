@@ -1,0 +1,1 @@
+/Users/zach/dev/ps/vc/rust-2021-fundamentals/module_2_getting_started_with_rust/exercise_files/target/debug/intro: /Users/zach/dev/ps/vc/rust-2021-fundamentals/module_2_getting_started_with_rust/exercise_files/src/main.rs
